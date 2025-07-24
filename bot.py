@@ -10,7 +10,7 @@ API_HASH = "4ea7a4f028bed2a8077c65085dddc9c4"
 BOT_TOKEN = "8408338657:AAFX15Ei4hvX6Bijnu0STRF5JRwQe20J-_U"
 
 # Group IDs
-TARGET_GROUP_IDS = [-1002557527694]   # 👁 Whitelisted scraping groups
+TARGET_GROUP_IDS = [-1002649461790]   # 👁 Whitelisted scraping groups
 YOUR_GROUP_ID = -1002649461790        # 📤 Your group to send formatted results
 
 # Max concurrent workers
